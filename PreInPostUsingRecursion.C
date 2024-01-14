@@ -15,3 +15,4 @@ int main(){
     scanf("%d",&n);
     preInpost(n);
     return 0;
+}
